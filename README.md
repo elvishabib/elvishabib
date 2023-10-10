@@ -41,15 +41,15 @@ class SoftwareDeveloper:
             "Side Stack": {
                 "Backend": {
                     "Languages": ["JavaScript", "PHP"],
-                    "Frameworks": ["ExpressJS", "Symfony", "Laravel"],
+                    "Frameworks": ["Express", "Symfony", "Laravel"],
                     "Databases": ["MySQL", "Redis"],
                     "API Services and Tools": {
-                        "Creating APIs": ["ExpressJS", "Laravel"],
+                        "Creating APIs": ["Express", "Laravel"],
                         "Testing APIs": ["Insomnia"]
                     }
                 },
                 "Frontend": {
-                    "JS Libs and Frameworks": ["jQuery", "ReactJS", "Typescript"],
+                    "JS Libs and Frameworks": ["jQuery", "React", "Typescript"],
                     "Template Engine": ["HTML5", "Django Template Engine", "Jinja"],
                     "CSS and Frameworks": ["CSS3", "SCSS", "SASS", "TailwindCSS"]
                 }
